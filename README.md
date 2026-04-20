@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Md. Redwan Ahmed
-- 👀 I’m interested in React Js and Ruby on Rails
-- 🌱 I’m currently learning React Js and Ruby on Rails
+- 👋 Hi, I’m Md. Redwan Ahmed  
+- 💻 Ruby on Rails Developer  
+- 🌱 Currently exploring Rails and system design  
+- 🗄️ Interested in databases, Security and backend architecture  
+- 🚀 Always learning and building
 
 
 <!---
